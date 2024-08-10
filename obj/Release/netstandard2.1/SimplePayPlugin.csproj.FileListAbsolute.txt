@@ -1,0 +1,10 @@
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.csproj.AssemblyReference.cache
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.AssemblyInfoInputs.cache
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.AssemblyInfo.cs
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.csproj.CoreCompileInputs.cache
+C:\Users\luist\source\repos\SimplePayPlugin\bin\Release\netstandard2.1\SimplePayPlugin.deps.json
+C:\Users\luist\source\repos\SimplePayPlugin\bin\Release\netstandard2.1\SimplePayPlugin.dll
+C:\Users\luist\source\repos\SimplePayPlugin\bin\Release\netstandard2.1\SimplePayPlugin.pdb
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.dll
+C:\Users\luist\source\repos\SimplePayPlugin\obj\Release\netstandard2.1\SimplePayPlugin.pdb
